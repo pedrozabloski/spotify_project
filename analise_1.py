@@ -10,6 +10,5 @@ artist_name = "Coldplay"
 artist_id = search_for_artist(token,"Coldplay")["id"]
 
 print(artist_id)
-print(artist_id)
 #get_songs_by_artist(token,artist_id)
 
